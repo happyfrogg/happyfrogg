@@ -1,24 +1,80 @@
 <h1 align="center">Hi 👋, I'm Jisu</h1>
+<div align="left">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=happyfrogg&label=Profile%20views&color=0e75b6&style=flat" alt="happyfrogg" />
-</p>
-
----
-
-- 🌱 I’m currently learning **LLM fundamentals and applications, prompt engineering, fine-tuning, multimodal AI, and Linux.**  
 - 💡 I’m interested in **data-driven product management and AI-powered automation.**  
 - 📫 How to reach me: **jusu9204@gmail.com**
 
----
+<br>
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+</div align="left">
 
----
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyfrogg&show_icons=true&locale=en&layout=compact" alt="happyfrogg" /></p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=header)
+  
+<!-- 
+#### ✍️ Education
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=happyfrogg&show_icons=true&theme=default&hide=stars,issues" alt="happyfrogg" /></p>
+![42 badge](https://img.shields.io/badge/42SEOUL-black?style=flat&logo=42)
+![metaverse](https://img.shields.io/badge/MetaverseAcademy-white?style=flat)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happyfrogg&" alt="happyfrogg" /></p>
+
+#### 🛠️ Tech Stack 
+
+![java script badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript)
+<br>
+![spring boot badge](https://img.shields.io/badge/springboot-white?style=flat&logo=springboot)
+![Jenkins](https://img.shields.io/badge/Jenkins-181717?style=flat&logo=jenkins&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-c93131?style=flat&logo=Redis&logoColor=white)
+<br>
+![MySQL](https://img.shields.io/badge/mysql-f29111?style=flat&logo=mysql&logoColor=00758f)
+![Firebase](https://img.shields.io/badge/Firebase-1B3A57?style=flat&logo=firebase&logoColor=F5820D)
+![Docker](https://img.shields.io/badge/Docker-384d54?style=flat&logo=Docker&logoColor=0db7ed)
+
+<br>
+-->
+
+<div align="center"> 
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2035%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+
+</div>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📚 Summary</b></td>
+      <td><b>📆 Period</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-5Team"><b>글로벌 AI 무역 비서</b></a></td>
+      <td>무역 문서 자동화 + 질의응답 기반 검색
+         <img alt="우수상 수상" src="https://img.shields.io/badge/우수상 수상-black?style=flat&logo=Pinboard"/>      
+      <td>25.10.28 ~ 25.12.18 </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/meta-mingles"><b>Chative Jobs</b></a></td>
+      <td>마케팅 컨설팅 챗봇</td>
+      <td>25.10.24 ~ 25.10.27</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-2nd-5Team"><b>Stop the Churn</b></a></td>
+      <td>신문 구독자 이탈 예측</td>
+      <td>25.08.11 ~ 25.08.12</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=footer) 
+
+</div>
+
