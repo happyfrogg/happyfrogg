@@ -60,7 +60,7 @@
       <td>25.10.28 ~ 25.12.18 </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/meta-mingles"><b>Chative Jobs</b></a></td>
+      <td align="center"><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-4th-1Team"><b>Chative Jobs</b></a></td>
       <td>마케팅 컨설팅 챗봇</td>
       <td>25.10.24 ~ 25.10.27</td>
     </tr>
