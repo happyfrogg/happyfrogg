@@ -30,17 +30,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-f29111?style=flat&logo=mysql&logoColor=00758f)
 ![Firebase](https://img.shields.io/badge/Firebase-1B3A57?style=flat&logo=firebase&logoColor=F5820D)
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=flat&logo=Docker&logoColor=0db7ed)
-
-<br>
 -->
 
 <div align="center"> 
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![](https://komarev.com/ghpvc/?username=happyfrogg&abbreviated=true)
 
 </div>
 
